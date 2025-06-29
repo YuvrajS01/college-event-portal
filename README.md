@@ -1,5 +1,8 @@
 # College Event Registration Portal
 
+
+## The Project is live at: http://yuv-proj.rf.gd/ !! Please check it out.
+
 ## Project Overview
 This project is a web-based portal for college event registration, allowing students to register for events and organizers to manage them. The portal includes features for user authentication, event management, and a responsive design.
 
