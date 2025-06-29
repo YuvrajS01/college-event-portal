@@ -83,11 +83,6 @@ college-event-portal
 ## Responsive Design
 The portal is designed to be mobile-responsive, ensuring a seamless experience across devices.
 
-## Optional Enhancements - Planned for future
-- QR code generation for registrations
-- Email confirmation after registration
-- Export participants list as CSV
-- Countdown timers for events
 
 ## Acknowledgments
 This project is developed as part of a internship assignment to demonstrate full-stack web development skills.
