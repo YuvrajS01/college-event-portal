@@ -58,12 +58,12 @@ college-event-portal
 
 ## Sample Credentials
 - **Organizer:** 
-  - Email: `admin@college.edu`
+  - Email: `Adm@test.com`
   - Password: `123456`
   
 - **Student:** 
-  - Email: `student@college.edu`
-  - Password: `student123`
+  - Email: `student@test.com`
+  - Password: `123456`
 
 ## Features
 - **Student Functionality:**
