@@ -85,4 +85,4 @@ The portal is designed to be mobile-responsive, ensuring a seamless experience a
 
 
 ## Acknowledgments
-This project is developed as part of a internship assignment to demonstrate full-stack web development skills.
+This project is developed as part of ATPLC internship assignment to demonstrate full-stack web development skills.
