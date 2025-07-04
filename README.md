@@ -56,7 +56,8 @@ college-event-portal
    - Start the Apache and MySQL services from the XAMPP control panel.
    - Open your web browser and navigate to `http://localhost/college-event-portal/index.php`.
 
-## Sample Credentials
+## Sample Credentials 
+   For hosted website
 - **Organizer:** 
   - Email: `Adm@test.com`
   - Password: `123456`
