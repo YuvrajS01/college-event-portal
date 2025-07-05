@@ -56,14 +56,15 @@ college-event-portal
    - Start the Apache and MySQL services from the XAMPP control panel.
    - Open your web browser and navigate to `http://localhost/college-event-portal/index.php`.
 
-## Sample Credentials
+## Sample Credentials 
+   For hosted website
 - **Organizer:** 
-  - Email: `admin@college.edu`
+  - Email: `Adm@test.com`
   - Password: `123456`
   
 - **Student:** 
-  - Email: `student@college.edu`
-  - Password: `student123`
+  - Email: `student@test.com`
+  - Password: `123456`
 
 ## Features
 - **Student Functionality:**
@@ -85,4 +86,4 @@ The portal is designed to be mobile-responsive, ensuring a seamless experience a
 
 
 ## Acknowledgments
-This project is developed as part of a internship assignment to demonstrate full-stack web development skills.
+This project is developed as part of ATPLC internship assignment to demonstrate full-stack web development skills.
