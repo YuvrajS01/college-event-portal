@@ -71,7 +71,7 @@
     </main>
 
     <footer class="text-center mt-4">
-        <p>Made with ❤️ by Yuvraj</p>
+        <p>Made with ❤️ by Yuvraj &mdash; <a href="privacy.php" style="color:#3F72AF;text-decoration:underline;">Privacy Policy</a> &bull; <span style="color:#3F72AF;">Contact: <a href="mailto:yuvraj@email.com" style="color:#3F72AF;">yuvraj@email.com</a></span></p>
     </footer>
 
     <script src="assets/js/scripts.js"></script>
